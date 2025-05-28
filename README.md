@@ -62,6 +62,8 @@ python collect.py
 ```
 4. Check the generated data.csv file for the output. 🎉
 
+---
+
 ## 🧠 Skills Used
 🐍 Python
 
@@ -73,5 +75,7 @@ python collect.py
 
 💾 Git & GitHub
 
+---
 
-
+## 📄 License
+This project is open-source and free to use under the [MIT License](https://opensource.org/licenses/MIT).
